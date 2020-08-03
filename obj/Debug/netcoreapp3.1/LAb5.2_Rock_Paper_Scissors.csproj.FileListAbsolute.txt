@@ -1,0 +1,13 @@
+C:\devbuild4\LAb5.2_Rock_Paper_Scissors\bin\Debug\netcoreapp3.1\LAb5.2_Rock_Paper_Scissors.exe
+C:\devbuild4\LAb5.2_Rock_Paper_Scissors\bin\Debug\netcoreapp3.1\LAb5.2_Rock_Paper_Scissors.deps.json
+C:\devbuild4\LAb5.2_Rock_Paper_Scissors\bin\Debug\netcoreapp3.1\LAb5.2_Rock_Paper_Scissors.runtimeconfig.json
+C:\devbuild4\LAb5.2_Rock_Paper_Scissors\bin\Debug\netcoreapp3.1\LAb5.2_Rock_Paper_Scissors.runtimeconfig.dev.json
+C:\devbuild4\LAb5.2_Rock_Paper_Scissors\bin\Debug\netcoreapp3.1\LAb5.2_Rock_Paper_Scissors.dll
+C:\devbuild4\LAb5.2_Rock_Paper_Scissors\bin\Debug\netcoreapp3.1\LAb5.2_Rock_Paper_Scissors.pdb
+C:\devbuild4\LAb5.2_Rock_Paper_Scissors\obj\Debug\netcoreapp3.1\LAb5.2_Rock_Paper_Scissors.csprojAssemblyReference.cache
+C:\devbuild4\LAb5.2_Rock_Paper_Scissors\obj\Debug\netcoreapp3.1\LAb5.2_Rock_Paper_Scissors.AssemblyInfoInputs.cache
+C:\devbuild4\LAb5.2_Rock_Paper_Scissors\obj\Debug\netcoreapp3.1\LAb5.2_Rock_Paper_Scissors.AssemblyInfo.cs
+C:\devbuild4\LAb5.2_Rock_Paper_Scissors\obj\Debug\netcoreapp3.1\LAb5.2_Rock_Paper_Scissors.csproj.CoreCompileInputs.cache
+C:\devbuild4\LAb5.2_Rock_Paper_Scissors\obj\Debug\netcoreapp3.1\LAb5.2_Rock_Paper_Scissors.dll
+C:\devbuild4\LAb5.2_Rock_Paper_Scissors\obj\Debug\netcoreapp3.1\LAb5.2_Rock_Paper_Scissors.pdb
+C:\devbuild4\LAb5.2_Rock_Paper_Scissors\obj\Debug\netcoreapp3.1\LAb5.2_Rock_Paper_Scissors.genruntimeconfig.cache
